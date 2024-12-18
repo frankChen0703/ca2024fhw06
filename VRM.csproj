@@ -128,8 +128,8 @@
     <Compile Include="Assets\VRM\Runtime\IO\MaterialIO\MToon\ShaderProps.cs" />
     <Compile Include="Assets\VRM\Runtime\SpringBone\VRMSpringUtility.cs" />
     <Compile Include="Assets\VRM\Runtime\BlendShape\MaterialValueBindingMerger.cs" />
-    <Compile Include="Assets\VRM\Runtime\IO\MaterialIO\VrmMaterialDescriptorGeneratorUtility.cs" />
     <Compile Include="Assets\VRM\Runtime\SpringBone\Logic\SceneInfo.cs" />
+    <Compile Include="Assets\VRM\Runtime\IO\MaterialIO\VrmMaterialDescriptorGeneratorUtility.cs" />
     <Compile Include="Assets\VRM\Runtime\LookAt\OffsetOnTransform.cs" />
     <Compile Include="Assets\VRM\Runtime\IO\MaterialIO\BuiltInRP\Export\Materials\BuiltInVrmMToonMaterialExporter.cs" />
     <Compile Include="Assets\VRM\Runtime\BlendShape\MeshPreviewItem.cs" />

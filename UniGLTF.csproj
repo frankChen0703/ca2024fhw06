@@ -163,8 +163,8 @@
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\Parser\GlbBinaryParser.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\Extensions\glTFExtensions.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\MaterialIO\URP\Export\Materials\UrpUnlitMaterialExporter.cs" />
-    <Compile Include="Assets\UniGLTF\Runtime\UniJSON\Extensions\TypeExtensions.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\AwaitCaller\NextFrameTaskScheduler.cs" />
+    <Compile Include="Assets\UniGLTF\Runtime\UniJSON\Extensions\TypeExtensions.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\MeshUtility\MeshAttachInfo.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\Format\GltfDeserializer.g.cs" />
     <Compile Include="Assets\UniGLTF\Runtime\UniGLTF\IO\SubAssetKey.cs" />
